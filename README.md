@@ -27,75 +27,76 @@
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="12" alt="go logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="12" alt="laravel logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="12" alt="javascript logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="12" alt="typescript logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="12" alt="angularjs logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="12" alt="nestjs logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="12" alt="mongodb logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="12" alt="bash logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="12" alt="mysql logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="12" alt="codeigniter logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" height="12" alt="cakephp logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="12" alt="wordpress logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="12" alt="debian logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="12" alt="composer logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="12" alt="apache logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="12" alt="cplusplus logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="12" alt="docker logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="12" alt="html5 logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="12" alt="css3 logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="12" alt="vuejs logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="12" alt="vscode logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="12" alt="gimp logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="12" alt="msdos logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="12" alt="arduino logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="12" alt="bootstrap logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="12" alt="filezilla logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="12" alt="git logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="12" alt="insomnia logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="12" alt="java logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="12" alt="jquery logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="12" alt="nodejs logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="12" alt="php logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="12" alt="sequelize logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="12" alt="ssh logo" />
-<img width="8" />
+<img width="2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="12" alt="trello logo" />
 </div>
+
 
 ###
 
